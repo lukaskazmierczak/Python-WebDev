@@ -25,5 +25,5 @@ The four-course program covered Python programming, HTML, and CSS, progressing f
 **Program Details**
 
 Program: CodeWizardsHQ — Level I <br>
-Course Sequence: Intro to Programming with Python → Beyond Basics with Python → Webpages with HTML & CSS → Level I Capstone <br>
+100 Hours of Coding Course Sequence: Intro to Programming with Python → Beyond Basics with Python → Webpages with HTML & CSS → Level I Capstone <br>
 Technologies: Python, HTML, CSS <br>
