@@ -11,30 +11,24 @@ The capstone brought these skills together through three projects:
 
 **Technical Skills**
 
-**Python:** Programming logic, application development, and interactive functionality
-
-**HTML & CSS:** Webpage structure, styling, and user interface design
-
-**Problem-Solving:** Applying programming concepts to complete projects
-
-**Project Development:** Building and completing applications and websites
+**Python:** Programming logic, application development, and interactive functionality <br>
+**HTML & CSS:** Webpage structure, styling, and user interface design <br>
+**Problem-Solving:** Applying programming concepts to complete projects <br>
+**Project Development:** Building and completing applications and websites <br>
 
 **Featured Capstone Projects**
 
-Python Capstone 1 — Project Name
+>Python Capstone 1 — Project Name
+>[Describe what the application does, its key features, and the programming concepts demonstrated.]
 
-[Describe what the application does, its key features, and the programming concepts demonstrated.]
+>Python Capstone 2 — Project Name
+>[Describe the application's purpose, how users interact with it, and the technical challenges addressed.]
 
-Python Capstone 2 — Project Name
-
-[Describe the application's purpose, how users interact with it, and the technical challenges addressed.]
-
-Web Development Capstone — Project Name
-
-[Describe the website's purpose, design, and implementation using HTML and CSS.]
+>Web Development Capstone — Project Name
+>[Describe the website's purpose, design, and implementation using HTML and CSS.]
 
 **Program Details**
 
-Program: CodeWizardsHQ — Level I
-Course Sequence: Intro to Programming with Python → Beyond Basics with Python → Webpages with HTML & CSS → Level I Capstone
-Technologies: Python, HTML, CSS
+Program: CodeWizardsHQ — Level I <br>
+Course Sequence: Intro to Programming with Python → Beyond Basics with Python → Webpages with HTML & CSS → Level I Capstone <br>
+Technologies: Python, HTML, CSS <br>
