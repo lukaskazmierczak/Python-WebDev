@@ -21,10 +21,10 @@ The capstone brought these skills together through three projects:
 >Python Capstone 1 — Wizard Quest
 >[Describe what the application does, its key features, and the programming concepts demonstrated.]
 
->Python Capstone 2 — About Me Website
+>Python Capstone 2 — Wizard Game
 >[Describe the application's purpose, how users interact with it, and the technical challenges addressed.]
 
->Web Development Capstone — Wizard Game
+>Web Development Capstone — About Me Website
 >[Describe the website's purpose, design, and implementation using HTML and CSS.]
 
 **Program Details**
