@@ -1,4 +1,4 @@
-# Python & Web Development | CodeWizardsHQ Level I Capstone
+# Python & Web Development | CodeWizardsHQ Level I
 
 **Project Overview**
 This repository showcases three capstone projects developed during the CodeWizardsHQ Level I Programming & Web Development course sequence.
