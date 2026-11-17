@@ -11,7 +11,7 @@ The four-course program covered Python programming, HTML, and CSS, progressing f
 **Problem-Solving:** Applying programming concepts to complete projects <br>
 **Project Development:** Building and completing applications and websites <br>
 
-**Featured Capstone Projects**
+**Featured Projects**
 
 >Python Project 1 — Wizard Quest
 >[Describe what the application does, its key features, and the programming concepts demonstrated.]
