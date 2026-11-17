@@ -13,13 +13,13 @@ The four-course program covered Python programming, HTML, and CSS, progressing f
 
 **Featured Capstone Projects**
 
->Python Capstone 1 — Wizard Quest
+>Python Project 1 — Wizard Quest
 >[Describe what the application does, its key features, and the programming concepts demonstrated.]
 
->Python Capstone 2 — Wizard Game
+>Python Project 2 — Wizard Game
 >[Describe the application's purpose, how users interact with it, and the technical challenges addressed.]
 
->Web Development Capstone — About Me Website
+>Web Development Project — About Me Website
 >[Describe the website's purpose, design, and implementation using HTML and CSS.]
 
 **Program Details**
