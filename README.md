@@ -4,11 +4,6 @@
 This repository showcases three capstone projects developed during the CodeWizardsHQ Level I Programming & Web Development course sequence.
 The four-course program covered Python programming, HTML, and CSS, progressing from foundational programming concepts to building interactive applications, games, and websites.
 
-The capstone brought these skills together through three projects:
->Python Application 1: [Project Name] — [Brief description of functionality]
->Python Application 2: [Project Name] — [Brief description of functionality]
->Website: [Project Name] — [Brief description of website and features]
-
 **Technical Skills**
 
 **Python:** Programming logic, application development, and interactive functionality <br>
